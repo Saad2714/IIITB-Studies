@@ -49,14 +49,4 @@ References:
 	(https://docs.mlab.com)
 	(https://mongoosejs.com/docs/)
 
-4. 
-
-Few Words:
- I created this project completely backend...not touching front end at all... I was not interested in front end from last few days...but  I realized  importance of front end after showing my project to my friends...
-almost every friend of mine created automation ...which is working fine...and very much interesting to watch their project running.....
-As my project is a backend part... I am having a fear of a complicated and bad representation....
-but I really worked  hard for it....with many references...
-  
-Created By:
-Saad Patel
- 
+4.Documentations
