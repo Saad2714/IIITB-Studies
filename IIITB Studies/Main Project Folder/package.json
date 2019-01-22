@@ -1,7 +1,7 @@
 {
   "name": "bigstack",
   "version": "1.0.0",
-  "description": "a small version of stackoverflow",
+  "description": "a small version of stackoverflow only for IIITB...",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,7 +9,7 @@
   "keywords": [
     "stackoverflow"
   ],
-  "author": "Hitesh",
+  "author": "Saad",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
