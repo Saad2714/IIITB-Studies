@@ -1,0 +1,50 @@
+NodeJs: Open source development platform for executing javascript code on sever side
+
+Express:
+    Web framework for Node.JS, Provides many important features for web application
+
+    express.Router()
+    Creates a new router object. 
+
+Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.   
+
+Body Parser:extract the entire body portion of an incoming request stream and exposes it on req.body.
+
+Passport is an authentication middleware for Node that authenticates requests.
+
+Multer is a node.js middleware for handling form-data, which is primarily used for uploading files.
+
+Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between
+            data, provides schema validation, and is used to translate between objects in code and the 
+         representation of those objects in MongoDB.
+
+JSON: JSON stands for JavaScript Object Notation. JSON is a lightweight format for storing and transporting 
+    data. JSON is often used when data is sent from a server to a web page. JSON is "self-describing" and 
+    easy to understand.
+
+
+res.json : Sends a JSON response. This method sends a response (with the correct content-type) that is the 
+            parameter converted to a JSON string using JSON.stringify().
+            The parameter can be any JSON type, including object, array, string, Boolean, number, or null, 
+            and you can also use it to convert other values to JSON.
+
+Schema refers to the organization of data as a blueprint of how the database is constructed 
+    A database schema is a way to logically group objects such as tables, views, stored procedures etc.
+     Think of a schema as a container of objects.
+
+    You can assign a user login permissions to a single schema so that the user can only access the objects 
+    they are authorized to access.
+
+    Schemas can be created and altered in a database, and users can be granted access to a schema. 
+    A schema can be owned by any user, and schema ownership is transferable.
+
+
+MongoDB is a database that allows you to store documents with a dynamic structure. These documents are saved
+ inside a collection. Mongoose is a JavaScript library that allows you to define schemas with strongly typed
+  data. Once a schema is defined, Mongoose lets you create a Model based on a specific schema.
+
+
+
+
+
+
