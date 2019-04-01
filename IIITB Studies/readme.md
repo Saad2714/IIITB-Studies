@@ -4,7 +4,8 @@ Hello World!!
 
 How to run code:
 1)install Postman,  
-2)npm install mongoose,body-parser,express,express-upload,router,bcryptjs,jsonwebtoken,nodemon...(or node index.js in terminal)
+2)sudo npm i or npm install mongoose,body-parser,express,express-upload,router,bcryptjs,jsonwebtoken,nodemon
+3)then nodemon in terminal
 
 in main project folder..run nodemon on terminal
 it will show
